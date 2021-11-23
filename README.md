@@ -5,5 +5,5 @@
 
 
 **Courses**:
-- [CSB 101: Programming Language](https://github.com/Ali-Abdelmonim/Teaching/tree/master/Programming%20Language)
+- [CSB 101: Programming Language](https://github.com/alielkassas/Teaching/tree/master/Python)
 - CS 403: Advanced Algorithms
