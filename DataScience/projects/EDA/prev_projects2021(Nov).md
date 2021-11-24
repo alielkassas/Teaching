@@ -1,11 +1,15 @@
 ## EDA projects, Nov 2021 edition
 
 ### Best Project Award
-- We will add it soon.
+
+- **Kaggle ML&DS survey 2020 & 2021** 
+Amal AlThaqafi
+[\[Github\]](https://github.com/iamal95/2021-Kaggle-Machine-Learning-Data-Science-Survey)[\[Kaggle\]](https://www.kaggle.com/amalalthaqafi/explore-ml-ds-survey-2020-2021-saudi-arabia)
 
 ### All project codes and reports
 
-- **Kaggle ML&DS survey 2020 & 2021 | Saudi Arabia** [\[Github\]](https://www.kaggle.com/amalalthaqafi/explore-ml-ds-survey-2020-2021-saudi-arabia)[\[Kaggle\]](https://github.com/iamal95/2021-Kaggle-Machine-Learning-Data-Science-Survey)
+(in no particular order)
+
 - **Hotel Booking Cancellation** [\[Github\]](https://github.com/NoraAlsaadi/Hotel_Booking_Cancellation_Prediction-EDA-)[\[Kaggle\]](https://www.kaggle.com/noramoh/hotel-booking-cancellation-eda)
 - **Crimes in Boston** [\[Github\]](https://github.com/Ohood-Alharbi/EDA-Crime-in-Boston-)[\[Kaggle\]](https://www.kaggle.com/ohoodalsohaime/eda-crimes-in-boston-4beginners)
 - **Students Performance in General Aptitude Test** [\[Github\]](https://github.com/Maithaq/Students-Performance-in-General-Aptitude-Test)[\[Blog\]](https://missmaitha95.wixsite.com/my-site/post/manage-your-blog-from-your-live-site)
