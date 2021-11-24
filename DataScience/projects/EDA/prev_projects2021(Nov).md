@@ -2,8 +2,8 @@
 
 ### Best Project Award
 
-- **Kaggle ML&DS survey 2020 & 2021** 
-Amal AlThaqafi
+- **Kaggle ML&DS survey 2020 & 2021**  
+Amal AlThaqafi  
 [\[Github\]](https://github.com/iamal95/2021-Kaggle-Machine-Learning-Data-Science-Survey)[\[Kaggle\]](https://www.kaggle.com/amalalthaqafi/explore-ml-ds-survey-2020-2021-saudi-arabia)
 
 ### All project codes and reports
