@@ -72,3 +72,9 @@ Amal AlThaqafi
 
 - **New York City Airbnb**  
 [\[Github\]](https://github.com/SamiaAlrakdhi/NYC_AirBnb-EDA-)[\[Kaggle\]](https://www.kaggle.com/samiaalrak/new-york-city-airbnb-eda)
+
+- **E-commers**  
+[\[Github\]](https://github.com/bushra3e/EDA-Project)
+
+- **Human Resources**  
+[\[Github\]](https://github.com/nasseralq/EDA_T5_data_science)[\[Blog\]](https://nkhudhaifa.wixsite.com/website/post/eda-t5-data-science)
