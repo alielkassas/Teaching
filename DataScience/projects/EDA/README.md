@@ -2,7 +2,7 @@
 The main goal is to prepare you to apply EDA to real-world datasets
 
 ### Previous projects
-- [Nov 2021](https://github.com/alielkassas/Data_Science_Resources/blob/main/projects/EDA/prev_projects2021(Nov).md)
+- [Nov 2021](https://github.com/alielkassas/Teaching/blob/master/DataScience/projects/EDA/prev_projects2021(Nov).md)
 
 ### Project Topics
 Your first task is to pick a project topic. Here are some examples:

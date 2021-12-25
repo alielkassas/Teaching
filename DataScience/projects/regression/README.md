@@ -2,7 +2,7 @@
 The main goal is to prepare you to apply machine learning algorithms to real-world datasets.
 
 ### Previous projects
-
+- [Nov 2021](https://github.com/alielkassas/Teaching/blob/master/DataScience/projects/regression/prev_projects2021(Nov).md)
 ### Project Topics
 Your first task is to pick a project topic. Here are some examples:
 
